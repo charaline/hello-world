@@ -1,0 +1,17 @@
+
+
+/* Font from: https://www.1001fonts.com/qubio-font.html */
+@font-face { font-family: Qubio; src: url('Qubio.ttf'); } 
+@font-face { font-family: QubioShadow; src: url('QubioShadow.ttf');}
+
+
+h1{
+    font-family: QubioShadow;
+}
+
+p{ 
+    
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 150px;
+    margin-right: 150px;
+}
