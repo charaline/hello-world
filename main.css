@@ -1,8 +1,8 @@
 
 
 /* Font from: https://www.1001fonts.com/qubio-font.html */
-@font-face { font-family: Qubio; src: url('Qubio.ttf'); } 
-@font-face { font-family: QubioShadow; src: url('QubioShadow.ttf');}
+@font-face { font-family: Qubio; src: url('Fonts/Qubio.ttf'); } 
+@font-face { font-family: QubioShadow; src: url('Fonts/QubioShadow.ttf');}
 
 
 h1{
